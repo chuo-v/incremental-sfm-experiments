@@ -1,0 +1,37 @@
+# ==============================
+# Python, Jupyter & Environment
+# ==============================
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter Notebook specific
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# ==============================
+# Local Configuration & Secrets
+# ==============================
+.env
+
+# ==============================
+# IDEs & OS Files
+# ==============================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ==============================
+# Heavy Data & 3D Artifacts
+# ==============================
+# Videos and raw image dumps
+*.mp4
+*.mov
+*.avi
+
+# Numpy dumps
+*.npy
+*.npz
