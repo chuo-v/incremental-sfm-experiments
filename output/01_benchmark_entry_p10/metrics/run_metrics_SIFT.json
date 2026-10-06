@@ -1,0 +1,93 @@
+{
+    "dataset": "entry-P10",
+    "matcher": "SIFT",
+    "config": {
+        "downscale_factor": 1.0,
+        "max_cache_size": 100,
+        "max_features": 50000,
+        "lowe_ratio_threshold": 0.75,
+        "apply_clahe": true,
+        "ransac_prob": 0.999,
+        "ransac_threshold": 3.0,
+        "min_parallax_degrees": 1.0
+    },
+    "results": {
+        "initialization": {
+            "seeded_points": 6874,
+            "rmse": 0.3474282920360565,
+            "time_seconds": 52.249
+        },
+        "frames": [
+            {
+                "image_index": 2,
+                "associations": 3590,
+                "pnp_inliers": 3435,
+                "triangulated_points": 1624,
+                "rmse": 1.1961729526519775,
+                "time_seconds": 46.708
+            },
+            {
+                "image_index": 3,
+                "associations": 3147,
+                "pnp_inliers": 2735,
+                "triangulated_points": 2099,
+                "rmse": 1.6874817609786987,
+                "time_seconds": 35.327
+            },
+            {
+                "image_index": 4,
+                "associations": 2328,
+                "pnp_inliers": 1723,
+                "triangulated_points": 1438,
+                "rmse": 1.8089889287948608,
+                "time_seconds": 30.774
+            },
+            {
+                "image_index": 5,
+                "associations": 1910,
+                "pnp_inliers": 1693,
+                "triangulated_points": 1733,
+                "rmse": 1.4510527849197388,
+                "time_seconds": 28.524
+            },
+            {
+                "image_index": 6,
+                "associations": 2023,
+                "pnp_inliers": 1783,
+                "triangulated_points": 2164,
+                "rmse": 1.3019554615020752,
+                "time_seconds": 34.774
+            },
+            {
+                "image_index": 7,
+                "associations": 1904,
+                "pnp_inliers": 1702,
+                "triangulated_points": 2090,
+                "rmse": 1.1796005964279175,
+                "time_seconds": 43.075
+            },
+            {
+                "image_index": 8,
+                "associations": 1602,
+                "pnp_inliers": 1455,
+                "triangulated_points": 1650,
+                "rmse": 1.3189520835876465,
+                "time_seconds": 41.367
+            },
+            {
+                "image_index": 9,
+                "associations": 1240,
+                "pnp_inliers": 1054,
+                "triangulated_points": 1390,
+                "rmse": 1.3309684991836548,
+                "time_seconds": 33.658
+            }
+        ],
+        "summary": {
+            "total_3d_points": 21062,
+            "overall_rmse": 1.2914001511202917,
+            "total_time_seconds": 346.458,
+            "avg_frame_time_seconds": 36.776
+        }
+    }
+}
