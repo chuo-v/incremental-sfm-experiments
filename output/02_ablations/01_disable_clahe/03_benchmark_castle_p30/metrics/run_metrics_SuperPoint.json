@@ -1,0 +1,317 @@
+{
+    "dataset": "castle-P30",
+    "matcher": "SuperPoint",
+    "config": {
+        "downscale_factor": 1.0,
+        "max_cache_size": 100,
+        "max_features": 50000,
+        "lowe_ratio_threshold": 0.75,
+        "apply_clahe": false,
+        "disable_symmetric_matching": false,
+        "use_root_sift": false,
+        "ransac_prob": 0.999,
+        "ransac_threshold": 3.0,
+        "min_parallax_degrees": 1.0
+    },
+    "results": {
+        "initialization": {
+            "seeded_points": 777,
+            "rmse": 0.9129543900489807,
+            "time_seconds": 24.152
+        },
+        "frames": [
+            {
+                "image_index": 2,
+                "raw_matches": 1680,
+                "associations": 651,
+                "pnp_inliers": 410,
+                "triangulated_points": 908,
+                "rmse": 1.8186277151107788,
+                "time_seconds": 17.437,
+                "is_relocalized": false
+            },
+            {
+                "image_index": 3,
+                "raw_matches": 2077,
+                "associations": 911,
+                "pnp_inliers": 469,
+                "triangulated_points": 1057,
+                "rmse": 1.843134880065918,
+                "time_seconds": 21.39,
+                "is_relocalized": false
+            },
+            {
+                "image_index": 4,
+                "raw_matches": 2530,
+                "associations": 1252,
+                "pnp_inliers": 480,
+                "triangulated_points": 1146,
+                "rmse": 1.9740244150161743,
+                "time_seconds": 24.913,
+                "is_relocalized": false
+            },
+            {
+                "image_index": 5,
+                "raw_matches": 2432,
+                "associations": 1281,
+                "pnp_inliers": 602,
+                "triangulated_points": 1020,
+                "rmse": 1.9117114543914795,
+                "time_seconds": 24.103,
+                "is_relocalized": false
+            },
+            {
+                "image_index": 6,
+                "raw_matches": 2487,
+                "associations": 1407,
+                "pnp_inliers": 529,
+                "triangulated_points": 937,
+                "rmse": 2.0183002948760986,
+                "time_seconds": 24.209,
+                "is_relocalized": false
+            },
+            {
+                "image_index": 7,
+                "raw_matches": 2082,
+                "associations": 969,
+                "pnp_inliers": 369,
+                "triangulated_points": 1000,
+                "rmse": 2.003723382949829,
+                "time_seconds": 23.664,
+                "is_relocalized": false
+            },
+            {
+                "image_index": 8,
+                "raw_matches": 2993,
+                "associations": 1142,
+                "pnp_inliers": 347,
+                "triangulated_points": 1697,
+                "rmse": 2.0842478275299072,
+                "time_seconds": 29.238,
+                "is_relocalized": false
+            },
+            {
+                "image_index": 9,
+                "raw_matches": 3156,
+                "associations": 1749,
+                "pnp_inliers": 714,
+                "triangulated_points": 1206,
+                "rmse": 2.1942203044891357,
+                "time_seconds": 31.552,
+                "is_relocalized": false
+            },
+            {
+                "image_index": 10,
+                "raw_matches": 3004,
+                "associations": 1607,
+                "pnp_inliers": 451,
+                "triangulated_points": 1149,
+                "rmse": 2.128232717514038,
+                "time_seconds": 30.862,
+                "is_relocalized": false
+            },
+            {
+                "image_index": 11,
+                "raw_matches": 2763,
+                "associations": 1309,
+                "pnp_inliers": 305,
+                "triangulated_points": 1175,
+                "rmse": 2.295426845550537,
+                "time_seconds": 28.209,
+                "is_relocalized": false
+            },
+            {
+                "image_index": 12,
+                "raw_matches": 2804,
+                "associations": 1212,
+                "pnp_inliers": 405,
+                "triangulated_points": 1439,
+                "rmse": 2.0810062885284424,
+                "time_seconds": 27.255,
+                "is_relocalized": false
+            },
+            {
+                "image_index": 13,
+                "raw_matches": 2029,
+                "associations": 1137,
+                "pnp_inliers": 498,
+                "triangulated_points": 775,
+                "rmse": 1.9401394128799438,
+                "time_seconds": 21.535,
+                "is_relocalized": false
+            },
+            {
+                "image_index": 14,
+                "raw_matches": 2046,
+                "associations": 957,
+                "pnp_inliers": 372,
+                "triangulated_points": 967,
+                "rmse": 1.9303892850875854,
+                "time_seconds": 20.77,
+                "is_relocalized": false
+            },
+            {
+                "image_index": 15,
+                "raw_matches": 1922,
+                "associations": 856,
+                "pnp_inliers": 303,
+                "triangulated_points": 957,
+                "rmse": 2.0235934257507324,
+                "time_seconds": 21.561,
+                "is_relocalized": false
+            },
+            {
+                "image_index": 16,
+                "raw_matches": 2106,
+                "associations": 978,
+                "pnp_inliers": 411,
+                "triangulated_points": 912,
+                "rmse": 1.951963186264038,
+                "time_seconds": 20.716,
+                "is_relocalized": false
+            },
+            {
+                "image_index": 17,
+                "raw_matches": 1814,
+                "associations": 932,
+                "pnp_inliers": 291,
+                "triangulated_points": 778,
+                "rmse": 1.9679360389709473,
+                "time_seconds": 20.936,
+                "is_relocalized": false
+            },
+            {
+                "image_index": 18,
+                "raw_matches": 1081,
+                "associations": 535,
+                "pnp_inliers": 189,
+                "triangulated_points": 473,
+                "rmse": 1.9648211002349854,
+                "time_seconds": 15.471,
+                "is_relocalized": false
+            },
+            {
+                "image_index": 19,
+                "raw_matches": 1296,
+                "associations": 398,
+                "pnp_inliers": 121,
+                "triangulated_points": 808,
+                "rmse": 1.8417960405349731,
+                "time_seconds": 17.042,
+                "is_relocalized": false
+            },
+            {
+                "image_index": 20,
+                "raw_matches": 1151,
+                "associations": 537,
+                "pnp_inliers": 247,
+                "triangulated_points": 549,
+                "rmse": 1.936682939529419,
+                "time_seconds": 15.185,
+                "is_relocalized": false
+            },
+            {
+                "image_index": 21,
+                "raw_matches": 1641,
+                "associations": 632,
+                "pnp_inliers": 236,
+                "triangulated_points": 937,
+                "rmse": 1.9732624292373657,
+                "time_seconds": 17.681,
+                "is_relocalized": false
+            },
+            {
+                "image_index": 22,
+                "raw_matches": 1656,
+                "associations": 935,
+                "pnp_inliers": 379,
+                "triangulated_points": 622,
+                "rmse": 1.9165242910385132,
+                "time_seconds": 26.073,
+                "is_relocalized": false
+            },
+            {
+                "image_index": 23,
+                "raw_matches": 1451,
+                "associations": 703,
+                "pnp_inliers": 231,
+                "triangulated_points": 629,
+                "rmse": 1.909382700920105,
+                "time_seconds": 18.158,
+                "is_relocalized": false
+            },
+            {
+                "image_index": 24,
+                "raw_matches": 1648,
+                "associations": 545,
+                "pnp_inliers": 238,
+                "triangulated_points": 948,
+                "rmse": 1.8972305059432983,
+                "time_seconds": 20.128,
+                "is_relocalized": false
+            },
+            {
+                "image_index": 25,
+                "raw_matches": 1383,
+                "associations": 681,
+                "pnp_inliers": 303,
+                "triangulated_points": 564,
+                "rmse": 2.246904134750366,
+                "time_seconds": 18.279,
+                "is_relocalized": false
+            },
+            {
+                "image_index": 26,
+                "raw_matches": 1614,
+                "associations": 616,
+                "pnp_inliers": 241,
+                "triangulated_points": 881,
+                "rmse": 1.8302922248840332,
+                "time_seconds": 19.599,
+                "is_relocalized": false
+            },
+            {
+                "image_index": 27,
+                "raw_matches": 1727,
+                "associations": 882,
+                "pnp_inliers": 357,
+                "triangulated_points": 747,
+                "rmse": 1.967024803161621,
+                "time_seconds": 17.195,
+                "is_relocalized": false
+            },
+            {
+                "image_index": 28,
+                "raw_matches": 1676,
+                "associations": 884,
+                "pnp_inliers": 312,
+                "triangulated_points": 694,
+                "rmse": 1.9329092502593994,
+                "time_seconds": 17.348,
+                "is_relocalized": false
+            },
+            {
+                "image_index": 29,
+                "raw_matches": 521,
+                "associations": 256,
+                "pnp_inliers": 83,
+                "triangulated_points": 214,
+                "rmse": 1.9276288747787476,
+                "time_seconds": 16.079,
+                "is_relocalized": false
+            }
+        ],
+        "summary": {
+            "total_3d_points": 25966,
+            "overall_rmse": 1.945658315872324,
+            "total_time_seconds": 630.751,
+            "avg_frame_time_seconds": 21.664,
+            "total_raw_matches": 54770,
+            "match_survival_rate": 0.18062808106627715,
+            "tracking_inlier_ratio": 0.3811743854511829,
+            "mean_track_length": 2.380998228452592,
+            "rmse_variance": 0.013661733513264834,
+            "global_relocalizations": 0
+        }
+    }
+}
