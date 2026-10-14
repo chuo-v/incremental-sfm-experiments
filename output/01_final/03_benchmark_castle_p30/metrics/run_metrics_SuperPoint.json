@@ -17,7 +17,7 @@
         "initialization": {
             "seeded_points": 862,
             "rmse": 0.9309818148612976,
-            "time_seconds": 28.213
+            "time_seconds": 4.764
         },
         "frames": [
             {
@@ -27,7 +27,7 @@
                 "pnp_inliers": 442,
                 "triangulated_points": 877,
                 "rmse": 1.8107796907424927,
-                "time_seconds": 18.667,
+                "time_seconds": 2.727,
                 "is_relocalized": false
             },
             {
@@ -37,7 +37,7 @@
                 "pnp_inliers": 489,
                 "triangulated_points": 1104,
                 "rmse": 1.8640419244766235,
-                "time_seconds": 24.129,
+                "time_seconds": 2.884,
                 "is_relocalized": false
             },
             {
@@ -47,7 +47,7 @@
                 "pnp_inliers": 545,
                 "triangulated_points": 1234,
                 "rmse": 1.904323697090149,
-                "time_seconds": 27.818,
+                "time_seconds": 3.481,
                 "is_relocalized": false
             },
             {
@@ -57,7 +57,7 @@
                 "pnp_inliers": 700,
                 "triangulated_points": 1019,
                 "rmse": 1.8487060070037842,
-                "time_seconds": 25.964,
+                "time_seconds": 3.706,
                 "is_relocalized": false
             },
             {
@@ -67,7 +67,7 @@
                 "pnp_inliers": 695,
                 "triangulated_points": 969,
                 "rmse": 1.833212971687317,
-                "time_seconds": 25.422,
+                "time_seconds": 3.203,
                 "is_relocalized": false
             },
             {
@@ -77,7 +77,7 @@
                 "pnp_inliers": 496,
                 "triangulated_points": 966,
                 "rmse": 1.95423424243927,
-                "time_seconds": 24.361,
+                "time_seconds": 3.148,
                 "is_relocalized": false
             },
             {
@@ -87,7 +87,7 @@
                 "pnp_inliers": 444,
                 "triangulated_points": 1618,
                 "rmse": 1.974031686782837,
-                "time_seconds": 30.131,
+                "time_seconds": 4.043,
                 "is_relocalized": false
             },
             {
@@ -97,7 +97,7 @@
                 "pnp_inliers": 773,
                 "triangulated_points": 1235,
                 "rmse": 2.2380545139312744,
-                "time_seconds": 34.422,
+                "time_seconds": 4.123,
                 "is_relocalized": false
             },
             {
@@ -107,7 +107,7 @@
                 "pnp_inliers": 535,
                 "triangulated_points": 1194,
                 "rmse": 3.4814157485961914,
-                "time_seconds": 33.044,
+                "time_seconds": 4.083,
                 "is_relocalized": false
             },
             {
@@ -117,7 +117,7 @@
                 "pnp_inliers": 402,
                 "triangulated_points": 1306,
                 "rmse": 2.072704792022705,
-                "time_seconds": 33.376,
+                "time_seconds": 4.052,
                 "is_relocalized": false
             },
             {
@@ -127,7 +127,7 @@
                 "pnp_inliers": 624,
                 "triangulated_points": 1335,
                 "rmse": 1.8972276449203491,
-                "time_seconds": 32.633,
+                "time_seconds": 3.711,
                 "is_relocalized": false
             },
             {
@@ -137,7 +137,7 @@
                 "pnp_inliers": 579,
                 "triangulated_points": 806,
                 "rmse": 1.8219289779663086,
-                "time_seconds": 22.166,
+                "time_seconds": 2.984,
                 "is_relocalized": false
             },
             {
@@ -147,7 +147,7 @@
                 "pnp_inliers": 416,
                 "triangulated_points": 967,
                 "rmse": 1.943269968032837,
-                "time_seconds": 21.964,
+                "time_seconds": 2.886,
                 "is_relocalized": false
             },
             {
@@ -157,7 +157,7 @@
                 "pnp_inliers": 306,
                 "triangulated_points": 966,
                 "rmse": 2.0286271572113037,
-                "time_seconds": 20.693,
+                "time_seconds": 2.965,
                 "is_relocalized": false
             },
             {
@@ -167,7 +167,7 @@
                 "pnp_inliers": 384,
                 "triangulated_points": 1012,
                 "rmse": 1.8687655925750732,
-                "time_seconds": 20.694,
+                "time_seconds": 2.733,
                 "is_relocalized": false
             },
             {
@@ -177,7 +177,7 @@
                 "pnp_inliers": 271,
                 "triangulated_points": 703,
                 "rmse": 1.9097930192947388,
-                "time_seconds": 20.653,
+                "time_seconds": 2.95,
                 "is_relocalized": false
             },
             {
@@ -187,7 +187,7 @@
                 "pnp_inliers": 157,
                 "triangulated_points": 552,
                 "rmse": 1.9239165782928467,
-                "time_seconds": 15.545,
+                "time_seconds": 2.193,
                 "is_relocalized": false
             },
             {
@@ -197,7 +197,7 @@
                 "pnp_inliers": 114,
                 "triangulated_points": 821,
                 "rmse": 1.9572464227676392,
-                "time_seconds": 17.475,
+                "time_seconds": 2.507,
                 "is_relocalized": false
             },
             {
@@ -207,7 +207,7 @@
                 "pnp_inliers": 243,
                 "triangulated_points": 539,
                 "rmse": 1.9802967309951782,
-                "time_seconds": 14.204,
+                "time_seconds": 2.058,
                 "is_relocalized": false
             },
             {
@@ -217,7 +217,7 @@
                 "pnp_inliers": 250,
                 "triangulated_points": 914,
                 "rmse": 2.050523281097412,
-                "time_seconds": 16.031,
+                "time_seconds": 2.162,
                 "is_relocalized": false
             },
             {
@@ -227,7 +227,7 @@
                 "pnp_inliers": 385,
                 "triangulated_points": 559,
                 "rmse": 2.0170750617980957,
-                "time_seconds": 16.279,
+                "time_seconds": 2.252,
                 "is_relocalized": false
             },
             {
@@ -237,7 +237,7 @@
                 "pnp_inliers": 231,
                 "triangulated_points": 673,
                 "rmse": 2.0919415950775146,
-                "time_seconds": 18.506,
+                "time_seconds": 2.437,
                 "is_relocalized": false
             },
             {
@@ -247,7 +247,7 @@
                 "pnp_inliers": 245,
                 "triangulated_points": 958,
                 "rmse": 1.9600600004196167,
-                "time_seconds": 30.238,
+                "time_seconds": 2.817,
                 "is_relocalized": false
             },
             {
@@ -257,7 +257,7 @@
                 "pnp_inliers": 336,
                 "triangulated_points": 617,
                 "rmse": 1.9409315586090088,
-                "time_seconds": 18.679,
+                "time_seconds": 2.593,
                 "is_relocalized": false
             },
             {
@@ -267,7 +267,7 @@
                 "pnp_inliers": 248,
                 "triangulated_points": 853,
                 "rmse": 2.0035605430603027,
-                "time_seconds": 18.217,
+                "time_seconds": 2.371,
                 "is_relocalized": false
             },
             {
@@ -277,7 +277,7 @@
                 "pnp_inliers": 297,
                 "triangulated_points": 759,
                 "rmse": 1.9696736335754395,
-                "time_seconds": 17.303,
+                "time_seconds": 2.362,
                 "is_relocalized": false
             },
             {
@@ -287,7 +287,7 @@
                 "pnp_inliers": 238,
                 "triangulated_points": 752,
                 "rmse": 2.033864974975586,
-                "time_seconds": 17.221,
+                "time_seconds": 2.553,
                 "is_relocalized": false
             },
             {
@@ -297,15 +297,15 @@
                 "pnp_inliers": 66,
                 "triangulated_points": 258,
                 "rmse": 2.1306307315826416,
-                "time_seconds": 16.711,
+                "time_seconds": 2.305,
                 "is_relocalized": false
             }
         ],
         "summary": {
             "total_3d_points": 26428,
             "overall_rmse": 1.980752433168477,
-            "total_time_seconds": 660.766,
-            "avg_frame_time_seconds": 22.591,
+            "total_time_seconds": 87.058,
+            "avg_frame_time_seconds": 2.939,
             "total_raw_matches": 56476,
             "match_survival_rate": 0.1931971102769318,
             "tracking_inlier_ratio": 0.4030214604956968,

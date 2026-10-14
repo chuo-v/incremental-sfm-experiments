@@ -17,7 +17,7 @@
         "initialization": {
             "seeded_points": 10572,
             "rmse": 0.7851971387863159,
-            "time_seconds": 80.061
+            "time_seconds": 20.146
         },
         "frames": [
             {
@@ -27,7 +27,7 @@
                 "pnp_inliers": 1880,
                 "triangulated_points": 4859,
                 "rmse": 1.7515753507614136,
-                "time_seconds": 78.112,
+                "time_seconds": 19.068,
                 "is_relocalized": false
             },
             {
@@ -37,7 +37,7 @@
                 "pnp_inliers": 1344,
                 "triangulated_points": 7042,
                 "rmse": 1.8927522897720337,
-                "time_seconds": 78.83,
+                "time_seconds": 18.864,
                 "is_relocalized": false
             },
             {
@@ -47,7 +47,7 @@
                 "pnp_inliers": 1200,
                 "triangulated_points": 4459,
                 "rmse": 1.7828835248947144,
-                "time_seconds": 75.759,
+                "time_seconds": 18.036,
                 "is_relocalized": false
             },
             {
@@ -57,7 +57,7 @@
                 "pnp_inliers": 1155,
                 "triangulated_points": 4598,
                 "rmse": 1.529352068901062,
-                "time_seconds": 75.186,
+                "time_seconds": 17.817,
                 "is_relocalized": false
             },
             {
@@ -67,7 +67,7 @@
                 "pnp_inliers": 1380,
                 "triangulated_points": 5186,
                 "rmse": 1.4642162322998047,
-                "time_seconds": 77.135,
+                "time_seconds": 18.842,
                 "is_relocalized": false
             },
             {
@@ -77,7 +77,7 @@
                 "pnp_inliers": 943,
                 "triangulated_points": 4469,
                 "rmse": 1.418615698814392,
-                "time_seconds": 83.302,
+                "time_seconds": 18.886,
                 "is_relocalized": false
             },
             {
@@ -87,7 +87,7 @@
                 "pnp_inliers": 710,
                 "triangulated_points": 2359,
                 "rmse": 1.617633581161499,
-                "time_seconds": 79.092,
+                "time_seconds": 18.699,
                 "is_relocalized": false
             },
             {
@@ -97,15 +97,15 @@
                 "pnp_inliers": 340,
                 "triangulated_points": 2382,
                 "rmse": 1.5267268419265747,
-                "time_seconds": 73.806,
+                "time_seconds": 18.115,
                 "is_relocalized": false
             }
         ],
         "summary": {
             "total_3d_points": 45926,
             "overall_rmse": 1.5298836363686457,
-            "total_time_seconds": 701.286,
-            "avg_frame_time_seconds": 77.653,
+            "total_time_seconds": 168.475,
+            "avg_frame_time_seconds": 18.541,
             "total_raw_matches": 51775,
             "match_survival_rate": 0.17290197971994206,
             "tracking_inlier_ratio": 0.7066624565835176,
